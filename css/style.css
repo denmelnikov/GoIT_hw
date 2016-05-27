@@ -1,14 +1,24 @@
 body{
-    background: grey;
+    background: #C0C0C0;
 }
 
 .content{
     margin-left: 130px;
-    margin-right: 130px;  
+    margin-right: 130px; 
+    margin-top: 20px;
     padding-left: 30px;
     padding-right: 30px;
-    padding-bottom: 5px;
+    padding-top: 20px;
+    padding-bottom: 50px;
     max-width: 900px;
+}
+
+.section{
+    border-bottom: solid black;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: 30px;
+    margin-bottom: -20px;
 }
 
 div{
@@ -22,5 +32,5 @@ h1{
 img{
     display: block;
     margin-left: auto;
-    margin-right: auto 
+    margin-right: auto;
 }
